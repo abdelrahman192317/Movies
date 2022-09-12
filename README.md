@@ -9,6 +9,8 @@ A app built with flutter and [TMDB api](https://www.themoviedb.org/documentation
 - search among 794,271 movies.
 - get movies details, reviews and etc.
 
+________________________________________________________
+
 - Flutter / Dart
 - beautiful Ui 
 - Rest APIs
@@ -17,20 +19,20 @@ A app built with flutter and [TMDB api](https://www.themoviedb.org/documentation
 - clean Code
 
 #### GIF
-![](screen_shots/movie720.gif)
+<img src="screen_shots/movie720.gif" width="300" height="600"/>
 
 #### Screenshots
 
-![](screen_shots/login.jpg)
-![](screen_shots/home.jpg)
-![](screen_shots/fav_empty.jpg)
-![](screen_shots/fav.jpg)
-![](screen_shots/search_empty.jpg)
-![](screen_shots/search.jpg)
-![](screen_shots/details.jpg)
-![](screen_shots/drawer.jpg)
-![](screen_shots/top.jpg)
-![](screen_shots/pop.jpg)
+<img src="screen_shots/login.jpg" width="360" height="740"/>
+<img src="screen_shots/home.jpg" width="360" height="740"/>
+<img src="screen_shots/fav_empty.jpg" width="360" height="740"/>
+<img src="screen_shots/fav.jpg" width="360" height="740"/>
+<img src="screen_shots/search_empty.jpg" width="360" height="740"/>
+<img src="screen_shots/search.jpg" width="360" height="740"/>
+<img src="screen_shots/details.jpg" width="360" height="740"/>
+<img src="screen_shots/drawer.jpg" width="360" height="740"/>
+<img src="screen_shots/top.jpg" width="360" height="740"/>
+<img src="screen_shots/pop.jpg" width="360" height="740"/>
 
 ________________________________________________________________________
 

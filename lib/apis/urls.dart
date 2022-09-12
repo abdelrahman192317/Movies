@@ -2,7 +2,8 @@
 class Urls {
   static const String baseUrl = "api.themoviedb.org";
   static const String imageBaseUrl = "https://image.tmdb.org/t/p/original";
-  static const String apiKey = "eb03df251074313f6e24c705f23a1cdc";
+  //you should register an account in TMDB website and get an apikey. then replace it here.
+  static const String apiKey = "your api key";
 
   static const String topRated = '/3/movie/top_rated';
   static const String popularMovies = "/3/movie/popular";
