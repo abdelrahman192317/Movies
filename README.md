@@ -19,15 +19,13 @@ ________________________________________________________
 - clean Code
 
 #### video
-[<img src="screen_shots/login.jpg" width="200" height="370"/> ](https://youtu.be/_i7V-ZexdDg)
+[<img src="screen_shots/home.jpg" width="260" height="420"/> ](https://youtu.be/_i7V-ZexdDg)
 
 #### Screenshots
 
-<img src="screen_shots/login.jpg" width="360" height="740"/> | <img src="screen_shots/home.jpg" width="360" height="740"/>
-<img src="screen_shots/fav_empty.jpg" width="360" height="740"/> | <img src="screen_shots/fav.jpg" width="360" height="740"/>
-<img src="screen_shots/search_empty.jpg" width="360" height="740"/> | <img src="screen_shots/search.jpg" width="360" height="740"/>
-<img src="screen_shots/details.jpg" width="360" height="740"/> | <img src="screen_shots/drawer.jpg" width="360" height="740"/>
-<img src="screen_shots/top.jpg" width="360" height="740"/> | <img src="screen_shots/pop.jpg" width="360" height="740"/>
+<img src="screen_shots/login.jpg" width="240" height="740"/> <img src="screen_shots/home.jpg" width="240" height="740"/> <img src="screen_shots/fav_empty.jpg" width="240" height="740"/> <img src="screen_shots/fav.jpg" width="240" height="740"/>
+<img src="screen_shots/search_empty.jpg" width="240" height="740"/> <img src="screen_shots/search.jpg" width="240" height="740"/> <img src="screen_shots/details.jpg" width="240" height="740"/> <img src="screen_shots/drawer.jpg" width="240" height="740"/>
+<img src="screen_shots/top.jpg" width="240" height="740"/> <img src="screen_shots/pop.jpg" width="240" height="740"/>
 
 ________________________________________________________________________
 
