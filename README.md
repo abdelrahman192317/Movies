@@ -18,8 +18,8 @@ ________________________________________________________
 - State Management (Provider)
 - clean Code
 
-#### GIF
-<img src="screen_shots/movie720.gif" width="300" height="600"/>
+#### video
+<video src="screen_shots/movie1080.mp4" width=300/>
 
 #### Screenshots
 
