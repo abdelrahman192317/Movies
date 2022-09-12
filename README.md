@@ -19,7 +19,7 @@ ________________________________________________________
 - clean Code
 
 #### video
-[![Demo](screen_shots/movie720.gif)](screen_shots/movie1080.mp4)
+[![Demo](screen_shots/movie720.gif)](screen_shots/movie720.mp4)
 
 #### Screenshots
 
