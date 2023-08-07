@@ -1,13 +1,13 @@
 # movies
 
-A app built with flutter and [TMDB api](https://www.themoviedb.org/documentation/api)
+An app built with flutter and [TMDB api](https://www.themoviedb.org/documentation/api)
 
 ## Features:
 
-- get top rated, popular, now playing and upcoming movies.
-- save movies in favorite to watch another time.
-- search among 794,271 movies.
-- get movies details, reviews and etc.
+- get top-rated, popular, now playing, and upcoming movies.
+- save movies in your favorite to watch another time.
+- Search among 794,271 movies.
+- get movie details, reviews and etc.
 
 ________________________________________________________
 
@@ -16,7 +16,7 @@ ________________________________________________________
 - Rest APIs
 - Shared preferences
 - State Management (Provider)
-- clean Code
+- clean code
 
 #### video
 [<img src="screen_shots/home.jpg" width="260" height="420"/> ](https://youtu.be/_i7V-ZexdDg)
@@ -27,14 +27,4 @@ ________________________________________________________
 <img src="screen_shots/search_empty.jpg" width="240" height="740"/> <img src="screen_shots/search.jpg" width="240" height="740"/> <img src="screen_shots/details.jpg" width="240" height="740"/> <img src="screen_shots/drawer.jpg" width="240" height="740"/>
 <img src="screen_shots/top.jpg" width="240" height="740"/> <img src="screen_shots/pop.jpg" width="240" height="740"/>
 
-________________________________________________________________________
-
-This project is a starting point for a Flutter application.
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+____________________
